@@ -164,5 +164,31 @@ How it works:
 - Ready to rock and roll
 - See in Action.
 
+#  Algorithm 6: Wifi mesh network 
+
+You will Need:
+
+- Jumper wires
+- LED
+- Resistors(For LED)
+- Push button
+- ESP8266-01(3)
+- Ceramic Capacitor
+- Electrolytic Capacitor
+- Breadboard
+- 3.3V converter
+- USB to TTL
+
+I tried exploring the use of mesh networking using the multiple ESP8266 - 01 module. 
+
+How it works:
+
+- First of install Arduino IDE
+- Install ESP8266 – 01 libraries in Arduino IDE
+- Make developing board for ESp 8266 01
+- Load the ESP8266 – 01 with correct credential of wifi
+- Interface one ESP8266 - 01 with other  ESP8266 - 01 module
+- Add one more ESP8266 - 01 module in two network
+- Ready to rock and roll
 
 For more details:- http://mahadev-com.stackstaging.com/
