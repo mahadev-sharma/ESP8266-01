@@ -123,7 +123,7 @@ Analyse and store data on website
 By combining GPIO controlling using internet  and this code we can make home automation easily
 Ready to rock and roll
 
-Algorithm:5: Wifi mesh network 
+Algorithm:6: Wifi mesh network 
 Jumper wires
 LED
 Resistors(For LED)
