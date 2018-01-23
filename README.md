@@ -1,3 +1,5 @@
+This respository contains lots of projects and lots of way to develope stand alone system with ESP 8266 -01,like develope in linux,windows,Esplorer,ESptool and lots of other ways.You can find few complet project with circuit diagram and full code that is written below.
+
 Algorithm:1: Deep sleep mode
 About this project :
 This project is developed and researched around ESP8266 - 01  wifi module.
